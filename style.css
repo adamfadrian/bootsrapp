@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    
+}
+ body {
+     max-height: 100%;
+     max-width: 100%;
+     background-color: blueviolet;
+    }
+.uye {
+    margin-top: -8px;
+}
+.mt {
+    margin-top: 100px;
+}
